@@ -1,6 +1,6 @@
 # pdf
 pdf editing and scraping automation to save time at work
-![Jupyter Notebook](https://github.com/jmfinnegan12/pdf/blob/main/TableReader_finalized.ipynb)
+[Jupyter Notebook](https://github.com/jmfinnegan12/pdf/blob/main/TableReader_finalized.ipynb)
 ## PDF Table Reader
 scrapes data from tables in pdf format to usable .csv or .xlsx format
 

@@ -8,7 +8,7 @@ capable of scraping data from tables in pdf format to usable .csv or .xlsx forma
 
 ## PDF Highlighter
 [Jupter Notebook](https://github.com/jmfinnegan12/pdf/blob/main/PDF%20Highlight.ipynb)
-capable of highlighting numbers on a pdf to track completed drill locations. Data can be updated daily to save time manually highlighting
+capable of highlighting numbers on a pdf to track completed drill locations. Data can be updated daily to save time manually logging
 
 ## Examples
 
